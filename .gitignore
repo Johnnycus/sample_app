@@ -80,3 +80,6 @@ pickle-email-*.html
 
 # c9.io dir
 /.c9
+
+# Ignore Spring files.
+/spring/*.pid
